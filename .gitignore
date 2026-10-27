@@ -1,0 +1,5 @@
+*
+!Selected_Product_Images/
+!Selected_Product_Images/**
+!.gitignore
+!README.md
